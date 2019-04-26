@@ -11,6 +11,12 @@ b = 345
 v_1 = a - b
 v_1
 
+print(type(a))
+print(type(b))
+print(type(v_1))
+
+# a = float; b = int; v_1 = float
+
 # 3) Calculate the remainder of the division 100/17 by only using one operator and save the result in v_2 (look into the Python docs for help) [1P]
 v_2 = 100%17
 v_2
